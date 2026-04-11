@@ -42,4 +42,4 @@ Simulating the alert triage and analysis workflow of a Junior SOC Analyst.
 ## 📬 Contact
 
 **Eyimofe Olaiya** — Toronto, Ontario  
-[LinkedIn](https://linkedin.com/in/your-link-here) | [GitHub](https://github.com/MofesHub)
+[LinkedIn](https://linkedin.com/in/eyimofeolaiya) | [GitHub](https://github.com/MofesHub)
