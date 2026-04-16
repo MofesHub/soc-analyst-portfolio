@@ -24,6 +24,7 @@ Simulating the alert triage and analysis workflow of a Junior SOC Analyst.
 | [2 — INC-2024-0019](soc-investigations/INC-2024-0019_Credential_Manager_FP_Report.md) | 5379 | Credential Manager Read | False Positive |
 | [3 — INC-2024-0031](soc-investigations/INC-2024-0031_Brute_Force_Report.md) | 4625 | Brute Force Attack Detection | True Positive — Alert Fired |
 | [4 — INC-2024-0047](soc-investigations/INC-2024-0047_Lateral_Movement_Report.md) | 4624/5140/4688 | Lateral Movement — Admin Share & Credential Tampering | Escalated + Host Contained |
+| [5 — INC-2024-0048](soc-investigations/INC-2024-0048_Persistence_Startup_Modification_Report.md) | 4657 | Persistence via Registry Run Key Modification | True Positive — Alert Fired |
 
 
 📄 **[Download Full Portfolio (PDF)](./Eyimofe_Olaiya_SOC_Portfolio.pdf)**
